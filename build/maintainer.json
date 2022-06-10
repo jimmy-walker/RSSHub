@@ -697,6 +697,9 @@
     "/ehentai/tag/:tag/:page?/:routeParams?": [
         "yindaheng98"
     ],
+    "/elasticsearch-cn/:params?": [
+        "nczitzk"
+    ],
     "/elsevier/:journal/latest": [
         "Derekmini",
         "sunwolf-swb"
@@ -1212,6 +1215,15 @@
         "brilon",
         "Fatpandac"
     ],
+    "/itch/devlog/:user/:id": [
+        "nczitzk"
+    ],
+    "/itch/posts/:topic/:id": [
+        "nczitzk"
+    ],
+    "/itch/:sort?/:tag?": [
+        "nczitzk"
+    ],
     "/ithome/ranking/:type": [
         "immmortal",
         "luyuhuang"
@@ -1600,6 +1612,9 @@
     "/mygopen/:label?": [
         "nczitzk"
     ],
+    "/mysql/release/:version?": [
+        "nczitzk"
+    ],
     "/natgeo/dailyselection": [
         "OrangeEd1t"
     ],
@@ -1901,6 +1916,9 @@
     ],
     "/playno1/st/:catid?": [
         "TonyRL"
+    ],
+    "/pmthinking/": [
+        "nczitzk"
     ],
     "/polkaworld/polkaworld/newest": [
         "iceqing"
